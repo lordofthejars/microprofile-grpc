@@ -1,0 +1,3 @@
+To install first run mvn clean install on `helloworld-grpc-api` to generate the client stubs.
+
+Then you can just run the srver side `helloworld-server-grpc` and the client side (Wildfly Swarm) too `helloworld-microprofile-grpc`
